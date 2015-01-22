@@ -1,4 +1,4 @@
-### Running the project
+# Running the Drupal Console
 
 After running composer to download dependencies you can run the project executing
 

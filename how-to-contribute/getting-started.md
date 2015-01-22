@@ -1,3 +1,5 @@
+# Getting started with the console
+
 ### Requirements
 * [Git](http://git-scm.com/)
 * [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
